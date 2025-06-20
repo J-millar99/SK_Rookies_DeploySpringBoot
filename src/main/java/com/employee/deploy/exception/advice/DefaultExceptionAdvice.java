@@ -1,6 +1,6 @@
-package com.employee.deploy.execption.advice;
+package com.employee.deploy.exception.advice;
 
-import com.employee.deploy.execption.ResourceNotFoundException;
+import com.employee.deploy.exception.ResourceNotFoundException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;

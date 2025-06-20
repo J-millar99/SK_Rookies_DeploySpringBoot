@@ -1,4 +1,4 @@
-package com.employee.deploy.execption;
+package com.employee.deploy.exception;
 
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
